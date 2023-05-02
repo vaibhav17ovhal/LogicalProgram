@@ -9,7 +9,8 @@ namespace LogicalProgram
             Console.WriteLine("Welcome to Logical Program.");
 
             //FibonacciSeries.Series();
-            PerfectNumber.Number();           
+            //PerfectNumber.Number();
+            PrimeNumber.Prime();
         }
     }
 }

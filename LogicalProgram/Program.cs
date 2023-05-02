@@ -8,7 +8,8 @@ namespace LogicalProgram
         {
             Console.WriteLine("Welcome to Logical Program.");
 
-            FibonacciSeries.Series();
+            //FibonacciSeries.Series();
+            PerfectNumber.Number();           
         }
     }
 }

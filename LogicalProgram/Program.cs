@@ -10,7 +10,8 @@ namespace LogicalProgram
 
             //FibonacciSeries.Series();
             //PerfectNumber.Number();
-            PrimeNumber.Prime();
+            //PrimeNumber.Prime();
+            ReverseNumber.Reverse();
         }
     }
 }

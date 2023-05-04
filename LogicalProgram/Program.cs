@@ -8,11 +8,6 @@ namespace LogicalProgram
         {
             Console.WriteLine("Welcome to Logical Program.");
 
-            //FibonacciSeries.Series();
-            //PerfectNumber.Number();
-            //PrimeNumber.Prime();
-            //ReverseNumber.Reverse();
-            //CouponNumber.Coupon(15);
             StopWatch.Watch();
         }
     }

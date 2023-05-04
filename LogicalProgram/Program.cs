@@ -12,7 +12,8 @@ namespace LogicalProgram
             //PerfectNumber.Number();
             //PrimeNumber.Prime();
             //ReverseNumber.Reverse();
-            CouponNumber.Coupon(15);
+            //CouponNumber.Coupon(15);
+            StopWatch.Watch();
         }
     }
 }

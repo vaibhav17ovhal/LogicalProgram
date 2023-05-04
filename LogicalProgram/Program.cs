@@ -11,7 +11,8 @@ namespace LogicalProgram
             //FibonacciSeries.Series();
             //PerfectNumber.Number();
             //PrimeNumber.Prime();
-            ReverseNumber.Reverse();
+            //ReverseNumber.Reverse();
+            CouponNumber.Coupon(15);
         }
     }
 }
